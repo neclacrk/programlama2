@@ -1,0 +1,3 @@
+meyveler=['armut','elma','erik']
+for meyve in meyveler:
+    print(meyve)
